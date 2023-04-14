@@ -1,0 +1,43 @@
+# What prefix you should add
+
+- **feat**: Used for new features or functionality.
+- **fix**: Used for bug fixes.
+- **docs**: Used for documentation changes.
+- **style**: Used for code formatting, style, or linting changes that do not affect the meaning of the code.
+- **refactor**: Used for code changes that improve the design, structure, or performance of the code without adding new functionality or fixing a bug.
+- **test**: Used for adding or updating tests.
+- **chore**: Used for changes to build tools, dependencies, or other non-code-related changes.
+- **perf**: Used for performance improvements.
+- **revert**: Used for reverting a previous commit.
+- **merge**: Used for merging two or more branches.
+- **deploy**: Used for deployment-related changes.
+- **release**: Used for creating a new release version.
+- **hotfix**: Used for emergency fixes to critical bugs in production.
+- **build**: Used for changes to the build system or external dependencies.
+- **ci**: Used for changes to the continuous integration (CI) system.
+- **config**: Used for changes to configuration files.
+- **init**: Used for the initial commit of a new project or repository.
+- **update**: Used for updating existing functionality or dependencies.
+- **cleanup**: Used for removing unused code or files.
+- **reformat**: Used for reformatting code or files to conform to coding standards.
+- **add**: Used for adding new files, features, or functionality.
+- **remove**: Used for removing files, features, or functionality.
+- **move**: Used for moving or renaming files or directories.
+- **rename**: Used for renaming functions, variables, or other code elements.
+- **fixup**: Used for making minor corrections or improvements to a previous commit.
+- **squash**: Used for combining multiple commits into a single, cohesive commit.
+- **wip**: Used for commits that are still in progress or not yet completed.
+- **design**: Used for changes to the design of the user interface or user experience.
+- **localization**: Used for changes to localization or internationalization files.
+- **security**: Used for changes related to security, such as fixing vulnerabilities or implementing security features.
+- **performance**: Used for changes that improve performance, such as optimizing code or reducing resource usage.
+- **migration**: Used for changes related to data migrations or schema changes.
+- **addition**: Used for adding new features, functionality, or content.
+- **upgrade**: Used for upgrading dependencies or other software components.
+- **improvement**: Used for changes that improve existing functionality, without adding new features.
+- **feature**: Used for changes that add new features or functionality to the project.
+- **bug**: Used for changes that fix bugs or issues in the project.
+- **cleanup**: Used for changes that improve the code or file structure, but do not affect the project's functionality.
+- **dependency**: Used for changes to dependencies, such as adding, upgrading, or removing them.
+- **lint**: Used for changes that correct or improve code style, formatting, or syntax.
+- **typo**: Used for changes that correct spelling, grammar, or other minor mistakes in the project.
